@@ -1,6 +1,6 @@
 {
-    "name": "sfisoinvestment",
-    "short_name": "sfisoinvestment",
+    "name": "wealth_final",
+    "short_name": "wealth_final",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
